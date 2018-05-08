@@ -3,6 +3,7 @@
 
 # TEAM
 
+Jason Taylor json@git.training 
     <name> -- <role> -- <twitter>
 
 # THANKS
