@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ###Copyright
 
+
+Pleas fork this rep
 2018 Git.Training.
